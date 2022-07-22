@@ -3,7 +3,7 @@
 ## My work on machine learning and deep learning
 
 ### Simple models in ML
-Exploring simple machine learning models with and without a teacher on library datasets
+Exploring simple machine learning models supervised/unsupervised on library datasets
 
 [Link](https://github.com/cyberknopa/ML-in-IS/tree/main/simple-models)
 
