@@ -21,4 +21,7 @@ There are three ways to implement the spam filter: iterative, MinHash+LSH algori
 
 [Link](https://github.com/cyberknopa/ML-in-IS/tree/main/Spam-filters)
 
-### Traffic classification 
+### TNetwork attack classifier
+Network attack classifier using machine learning methods NSL-KDD dataset was used Data collected by tcpdump, 24 different types of attacks were recorded Attacks in the training set belong to 4 general categories
+
+[Link](https://github.com/cyberknopa/ML-in-IS/tree/main/Traffic-classifer)
