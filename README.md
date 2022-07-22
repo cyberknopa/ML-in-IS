@@ -2,6 +2,8 @@
 
 ## My work on machine learning and deep learning
 
+## Detailed description of each project inside the project folder
+
 ### Simple models in ML
 Exploring simple machine learning models supervised/unsupervised on library datasets
 
