@@ -4,11 +4,6 @@
 
 ## Detailed description of each project inside the project folder
 
-### Simple models in ML
-Exploring simple machine learning models supervised/unsupervised on library datasets
-
-[Link](https://github.com/cyberknopa/ML-in-IS/tree/main/simple-models)
-
 ### Deep learning
 
 ### Steganalysis
